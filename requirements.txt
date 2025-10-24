@@ -139,3 +139,4 @@ gspread_dataframe
 openpyxl == 3.1.5
 filelock
 psutil
+crewai
